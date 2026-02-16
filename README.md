@@ -1,7 +1,7 @@
 # Interface Structure Diagrams (ISD) – System Analysis Examples
-- This repository presents an Interface Structure Diagram (ISD) developed for the [Smart Home Application](https://github.com/edmnikolaeva/stets_home)
+This repository presents an Interface Structure Diagram (ISD) developed for the [Smart Home Application](https://github.com/edmnikolaeva/stets_home)
 
-### DIAGRAM ILLUSTRATES
+The diagram illustrates:
 - interface design
 - component structure
 - system interactions
